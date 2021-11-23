@@ -22,7 +22,7 @@ public class SpawnManager : MonoBehaviour
     void Update()
     {
         
-       
+        //ESTO SOLO ES UNA PRUEBA
         /*if (animalIndex >= 0 && animalIndex < enemies.Length)
         {*/
             if (Input.GetKeyDown(KeyCode.R))
