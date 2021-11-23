@@ -70,7 +70,17 @@ PrefabInstance:
     - target: {fileID: 4163611767792435622, guid: a33da338ec2e5b540a9933391e29fed3,
         type: 3}
       propertyPath: m_Name
-      value: Food_Pizza_01
+      value: Sandwich
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747219612648030241, guid: a33da338ec2e5b540a9933391e29fed3,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.5340573
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747219612648030241, guid: a33da338ec2e5b540a9933391e29fed3,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.18934608
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a33da338ec2e5b540a9933391e29fed3, type: 3}

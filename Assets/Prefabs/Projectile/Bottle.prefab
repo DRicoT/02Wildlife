@@ -70,12 +70,42 @@ PrefabInstance:
     - target: {fileID: 1421324738472928580, guid: 2a14b0e2e7178214981996b351c0f440,
         type: 3}
       propertyPath: m_Name
-      value: Food_Pizza_01
+      value: Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 1421324738472928580, guid: 2a14b0e2e7178214981996b351c0f440,
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.27923977
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.97596574
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.2767946
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Center.y
+      value: -0.0034343004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4751920714592003267, guid: 2a14b0e2e7178214981996b351c0f440,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -0.00000019868216
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a14b0e2e7178214981996b351c0f440, type: 3}
