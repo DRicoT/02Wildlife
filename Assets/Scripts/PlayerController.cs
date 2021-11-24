@@ -50,7 +50,7 @@ public class PlayerController : MonoBehaviour
         }
         
         //Acciones del personaje
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             //Si estamos aquí hay que lanzar un proyectil
             Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);

@@ -10,7 +10,7 @@ public class SpawnManager : MonoBehaviour
     public GameObject[] enemies;
     private int animalIndex;
 
-    private float spawnRangeX = 20f;
+    private float spawnRangeX = 16f;
     private float spawnPosZ;
     
     [SerializeField, Range(2,5)]
